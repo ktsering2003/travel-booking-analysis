@@ -1,0 +1,17 @@
+Month-Year,Net Orders,Gross Booking Amount
+6_201811787616,5684869384
+6_2019,13514672,7697252400
+
+# Summary for task 1 for part 1:
+In the first part of Task 1, I analyzed the monthly trends 
+for net orders and gross booking amounts. 
+I grouped the data by month-year to sum up the total 
+net orders and gross booking amount for each month. 
+Then, I created a bar graph with two y-axes: 
+the left y-axis for Net Orders (displayed in blue) 
+and the right y-axis for Gross Booking Amount 
+(displayed in green). This dual-axis approach allowed me 
+to show both metrics side by side, 
+making it easy to compare trends over time. 
+I added labels to each bar to clearly show the exact values,
+improving readability.

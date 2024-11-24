@@ -1,0 +1,17 @@
+Family Presence,Net Orders,Gross Booking Amount
+Non-Family,2084479010,130646882
+Family,4457498,3251474902
+
+Summary for Task1 : 
+In the second part of Task 1, 
+I compared booking data based on whether there was a family
+presence (with or without children). 
+I grouped the data by family presence and calculated the 
+total net orders and total gross booking amount for both 
+"Family" and "Non-Family" groups. The resulting bar graph,
+with blue bars for Net Orders and green bars for Gross 
+Booking Amount, allows a clear visual comparison of family
+vs. non-family bookings. 
+I labeled each bar with its value for easy reference and 
+formatted the y-axis to show billions, 
+as the values are large.
