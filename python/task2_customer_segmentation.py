@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Load the data
+# # Load the data
 data_path = '../data/2025 DSA Case Study Dataset.xlsx'
 df = pd.read_excel(data_path, sheet_name='in')
 
