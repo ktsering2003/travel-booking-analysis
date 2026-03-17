@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Data for visualization
+# # Data for visualization
 family_travelers_metrics = {
     'Total Net Orders': 4457498,
     'Total Gross Booking Amount': 3251474902,
